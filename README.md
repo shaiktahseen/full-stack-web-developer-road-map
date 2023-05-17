@@ -1,6 +1,7 @@
 # full-stack-web-developer-road-map
 
 div blocks using Html and Css.
+||
 I have created a full-stack web developer road map using html, css for beginner.
 Basically It shows the overall each block about each role & their requires programming language, technologies, skill set, frames works etc..
 It gives basic understanding simple accurate route to the beginner to follow.
