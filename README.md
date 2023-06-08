@@ -7,6 +7,3 @@ Basically It shows various roles & their requires programming language, technolo
 It gives user / beginner simple route to understanding to follow.
 
 ![image](https://user-images.githubusercontent.com/126344231/228320281-007cb645-4d53-4ccd-b3ac-94b93f804fbc.png)
-
-
-
