@@ -10,4 +10,4 @@ It gives user / beginner simple route to understanding to follow.
 
 Conclusion:
 
-Full stack web development is the booming field in the filed of software industry. Studens are showing interest in full stack development in India in which result the competition is also increasing.
+Full stack web development is the booming field in the filed of software industry. Students are showing interest in full stack development in India in which result the competition is also increasing rapidly.
