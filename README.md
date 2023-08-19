@@ -6,4 +6,4 @@ I have created a Full-stack developer road map using html5, css for beginner. Ba
 
 Conclusion:
 
-Full Stack development is the booming career in the filed of software industry & development. Students / graduates are showing interest in full stack development from across India in which resulted the competition is also increasing rapidly.
+Full Stack development is the booming career in the filed of software industry of development. Students / graduates are showing interest in full stack development from across India in which resulted the competition is also increasing rapidly.
