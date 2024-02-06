@@ -4,6 +4,7 @@ Full Stack Developer using the //div blocks using Html and Css//
 This is a Full-stack developer road map using html5, css for beginner. Basically It shows various roles & their requires programming language, technologies, skill-sets, frames works etc. It gives candidate end to end clear understanding / beginner simple map to follow.
 
 Conclusion:
+
 Full Stack development is the booming career in the filed of software industry of development. Students / graduates are showing interest in full stack development from across India in which resulted the competition is also increasing rapidly.
 
 Output:
